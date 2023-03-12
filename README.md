@@ -7,7 +7,7 @@ Renee: Video Game Sales Dataset (csv)
 This dataset was pulled from https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset. The data described games released from 1984-2016 and their performance to date. Of the columns listed, we chose to keep the Name, Year, Publisher, Global Sales, Critic and User Scores for our target table. We also filtered the data coming in by only games whose Publisher was Nintendo were released from 2010-2016. 
 
 Kayla:  Publisher Stock Data (csv)
-	For our second data source, we found stock data on kaggle that originated from Reddit API. The dataset was pulled from https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04. This data included the stock price for seven video game publishers every day from 1/4/10 to 9/2/22. We chose to focus on Ninentdo stock price. To format this data, we extracted the year from the date column and filtered by the years 2010 - 2016 to match up with our other dataset. 
+	For our second data source, we found stock data on kaggle that originated from Reddit API. The dataset was pulled from https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04. The data set included the stock price for seven video game publishers every day from 1/4/10 to 9/2/22. We chose to focus on Ninentdo stock price. To format this data, we extracted the year from the date column and filtered by the years 2010 - 2016 to match up with our other data set. 
 
 √ Transform: explains what data clearing or transformation was required at a professional level
 
